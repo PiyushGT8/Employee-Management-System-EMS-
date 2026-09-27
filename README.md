@@ -1,8 +1,8 @@
-# Employee Management System – Version 1.0
+# Employee Management System – Version 1.1
 
-## Basic Employee Management
+## Employee Management System
 
-The Employee Management System (EMS) maintains basic employee information and department details.
+The Employee Management System (EMS) maintains employee information, department details, attendance and leave records.
 
 ### Version 1.0 Features
 
@@ -13,8 +13,17 @@ The Employee Management System (EMS) maintains basic employee information and de
 - Manage department information
 - Maintain employee records
 
+### Version 1.1 New Features
+
+- Employee attendance management
+- Record employee attendance
+- View attendance records
+- Employee leave management
+- Apply and maintain leave records
+- View employee leave status
+
 ### Description
 
-The system allows an administrator or authorized user to maintain basic employee records. Employee information such as employee ID, name, department, designation, contact details and joining date can be maintained.
+The system allows an administrator or authorized user to maintain employee records and manage employee attendance and leave information.
 
-Version 1.0 focuses on basic employee and department management.
+Version 1.1 extends the basic employee and department management features by adding attendance and leave management.
